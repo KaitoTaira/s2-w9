@@ -223,8 +223,7 @@ public class RGBImage{
             }
         }
         refresh();
-        System.out.println(greenMax);
-        System.out.println(greenMin);
     }
+    
     }
 
